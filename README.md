@@ -4,18 +4,18 @@
 
 <h3 align="center">Tôi là một lập trình viên phần mềm đến từ Vietnam  ❤</h3>
   
-Kết hợp kiến thức hàn lâm cả phát triển web, mobile cho việc sử dụng🌈 và ứng dụng thuật toán 🎯 Áp dụng những kinh nghiệm cũng như kỹ năng ngôn ngữ Java, HTML, CSS, JS .... được học trong trường để trở thành Web Developer mang lại những giá trị thiết thực.. Đóng góp cho công ty ngày càng phát triển, luôn cập nhật những công nghệ mới nhất và luôn tìm cách cải thiện và phát triển như một chuyên gia phần mềm.:bar_chart:.
+Kết hợp kiến thức hàn lâm cả phát triển web, mobile cho việc sử dụng🌈 và ứng dụng thuật toán 🎯 Áp dụng những kinh nghiệm cũng như kỹ năng ngôn ngữ Java, HTML, CSS, JS .... được học trong trường để trở thành Software Developer mang lại những giá trị thiết thực.. Đóng góp cho công ty ngày càng phát triển, luôn cập nhật những công nghệ mới nhất và luôn tìm cách cải thiện và phát triển như một chuyên gia phần mềm :bar_chart:.
 
 
-![age](https://img.shields.io/badge/age-21-blue)
+![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
+![living](https://img.shields.io/badge/living-HoChiMinhCity-3c9)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 -  ☺ Họ tên: Nguyễn Văn Giàu
-- 📅 Ngày sinh: April 6, 2001
-- 🚹 Giới tính: Male
+- 📅 Ngày sinh: 06/04/2001
+- 🚹 Giới tính: Nam
 - 🏠 Quê quán: Chợ Gạo, Tiền Giang
 - 📞 Số phone: (+84) 385642964
 - 📧 Email: vangiau.recca@gmail.com
