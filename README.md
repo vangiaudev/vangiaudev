@@ -25,7 +25,7 @@ Kết hợp kiến thức hàn lâm cả phát triển web, mobile cho việc s�
     + Tích lũy, học hỏi kiến thức từ các anh chị đồng nghiệp đi trước
     + Nâng cao kỹ năng làm việc và mong muốn trở thành nhân viên chính thức sau thời gian thử việc
 - 👨‍🎓 Tôi hiện đang học tại trường Đại Học Sư Phạm TP.HCM
-- 📫 Portfolio: https://vangiaurecca.github.io/PersonalBlog/index.html 
+- 📫 Portfolio cá nhân: https://vangiaurecca.github.io/PersonalBlog/index.html 
 <br />
 
 
@@ -70,9 +70,9 @@ Kết hợp kiến thức hàn lâm cả phát triển web, mobile cho việc s�
 ### THÔNG TIN ❤️ LIÊN HỆ ⭐CÁ NHÂN!
 
 
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vangiau.recca/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/vangiau.recca/)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vangiaurecca.github.io/PersonalBlog/index.html/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vangiau.recca)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/vangiau.recca)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vangiaurecca.github.io/PersonalBlog/index.html)
 
 
 <a href="https://dev.to/subhampreet"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
