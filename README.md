@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![header](https://user-images.githubusercontent.com/75024999/126861098-49557e4a-f604-41c3-a7f6-0d276ed3600d.jpg)
 
 <h1 align="center"> Welcome to NGUYỄN VĂN GIÀU <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
