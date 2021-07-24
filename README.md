@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/75024999/126861098-49557e4a-f604-41c3-a7f6-0d276ed3600d.jpg)
+![cover](https://user-images.githubusercontent.com/75024999/126861152-3ce41545-086c-4c5d-b7d7-7aef41f5a5f5.jpg)
 
 <h1 align="center"> Welcome to NGUYỄN VĂN GIÀU <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
