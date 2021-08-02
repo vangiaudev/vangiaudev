@@ -4,8 +4,6 @@
 
 <h3 align="center">A passionate Mobile App / FrontEnd Web developer from VietNam  ❤</h3>
   
-Kết hợp kiến thức hàn lâm cả phát triển web, mobile cho việc sử dụng🌈 và ứng dụng thuật toán 🎯 Áp dụng những kinh nghiệm cũng như kỹ năng ngôn ngữ Java, HTML, CSS, JS .... được học trong trường để trở thành Software Developer mang lại những giá trị thiết thực.. Đóng góp cho công ty ngày càng phát triển, luôn cập nhật những công nghệ mới nhất và luôn tìm cách cải thiện và phát triển như một chuyên gia phần mềm :bar_chart:.
-
 ![view counter](https://komarev.com/ghpvc/?username=vangiaurecca&label=Profile%20views&color=0e75b6&style=flat-square)
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
