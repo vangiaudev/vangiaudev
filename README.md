@@ -13,23 +13,23 @@ Kết hợp kiến thức hàn lâm cả phát triển web, mobile cho việc s�
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
--  ☺ Họ tên: Nguyễn Văn Giàu
-- 📅 Ngày sinh: 06/04/2001
-- 🚹 Giới tính: Nam
-- 🏠 Quê quán: Chợ Gạo, Tiền Giang
-- 📞 Số phone: (+84) 385642964
+-  ☺ Full name: Nguyễn Văn Giàu
+- 📅 Date of birth:  April 6, 2001
+- 🚹 Gender: Male
+- 🏠 Address: Chợ Gạo, Tiền Giang, Vietnam
+- 📞 Phone: (+84) 385642964
 - 📧 Email: vangiau.recca@gmail.com
-- 🎓 Cấp độ: Fresher Developer
-- 👯 Mục tiều nghề nghiệp
-    + Được làm việc trong môi trường thân thiện
-    + Tích lũy, học hỏi kiến thức từ các anh chị đồng nghiệp đi trước
-    + Nâng cao kỹ năng làm việc và mong muốn trở thành nhân viên chính thức sau thời gian thử việc
-- 👨‍🎓 Tôi hiện đang học tại trường Đại Học Sư Phạm TP.HCM
-- 📫 Portfolio cá nhân: https://vangiaurecca.github.io/PersonalBlog/index.html 
+- 🎓 Level: Fresher Developer
+- 👯 Career Objective:
+    + Working in a friendly environment
+    + Accumulate and learn from previous colleagues
+    + Improve working skills and desire to become a full-time employee after the probationary period
+- 👨‍🎓 I am currently studying at Ho Chi Minh City University Of Pedagogy
+- 📫 My CV: https://vangiaurecca.github.io/PersonalBlog/index.html 
 <br />
 
 
-## 👨‍💻 NGÔN NGỮ VÀ CÔNG NGHỆ
+## 👨‍💻 LANGUAGE AND TECHNOLOGY
 
 <div align="center">
   
@@ -67,7 +67,7 @@ Kết hợp kiến thức hàn lâm cả phát triển web, mobile cho việc s�
 <div align="center">
 
 
-### THÔNG TIN ❤️ LIÊN HỆ ⭐CÁ NHÂN!
+### ❤️  GET IN TOUCH  ⭐
 
 
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vangiau.recca)
@@ -75,7 +75,7 @@ Kết hợp kiến thức hàn lâm cả phát triển web, mobile cho việc s�
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vangiaurecca.github.io/PersonalBlog/index.html)
 
 
-<a href="https://dev.to/subhampreet"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
+<a href="https://vangiaurecca.github.io/MyMusicPlayer/Media/index.html"><img height="50" src="https://svgsilh.com/svg/1837426.svg"></a>
 
 </div>
 
