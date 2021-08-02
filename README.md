@@ -66,7 +66,8 @@
 
 ![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=vangiaurecca&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight) 
 
-![VanGiau's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vangiaurecca&theme=tokyonight)
+[![VanGiau's GitHub stats](https://github-readme-stats.vercel.app/api?username=vangiaurecca)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="center">
   
