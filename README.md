@@ -66,8 +66,6 @@
 
 <br>
 
-https://github-profile-trophy.vercel.app/?vangiaurecca=ryo-ma&theme=monokai
-
 
 ## Activity 👩‍💻
 
