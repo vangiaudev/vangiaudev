@@ -62,12 +62,17 @@
 
 <br>
 
+https://github-profile-trophy.vercel.app/?vangiaurecca=ryo-ma&theme=monokai
+
+
 ## Activity 👩‍💻
 
 ![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=vangiaurecca&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight) 
 
 
 <div align="center">
+  
+  
   
 
 ### ❤️  GET IN TOUCH  ⭐
