@@ -23,7 +23,7 @@
     + Accumulate and learn from previous colleagues
     + Improve working skills and desire to become a full-time employee after the probationary period
 - 👨‍🎓 I am currently studying at Ho Chi Minh City University Of Pedagogy
-- 📫 My CV: https://vangiaurecca.github.io/PersonalBlog/index.html 
+- 📫 My CV: https://vangiau-portfolio.vercel.app/
 <br />
 
 
@@ -61,7 +61,6 @@
 ## 🏆 Github Status
 
 <img  src="https://github-readme-stats.vercel.app/api?username=vangiaurecca&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=vangiaurecca&theme=tokyonight" width="45%" >
 
 <br>
 
