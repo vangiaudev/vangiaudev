@@ -23,7 +23,7 @@
     + Accumulate and learn from previous colleagues
     + Improve working skills and desire to become a full-time employee after the probationary period
 - 👨‍🎓 I am currently studying at Ho Chi Minh City University Of Pedagogy
-- 📫 My CV: https://vangiau-portfolio.vercel.app/
+- 📫 My CV: https://vangiau.vercel.app/
 <br />
 
 
@@ -55,18 +55,18 @@
 <br >
 
 ### :octocat: Award
-![SVXS](https://user-images.githubusercontent.com/75024999/197905302-0ff7eed3-8df2-4d10-812c-a4301b7e1746.jpg)
+<img  src="https://user-images.githubusercontent.com/75024999/197905302-0ff7eed3-8df2-4d10-812c-a4301b7e1746.jpg" width="50%" >
 
 ## 🏆 Github Status
 
 <img  src="https://github-readme-stats.vercel.app/api?username=vangiaurecca&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=vangiaurecca&theme=tokyonight" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=vangiaudev&theme=tokyonight" width="45%" >
 <br>
 
 
 ## Activity 👩‍💻
 
-![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=vangiaurecca&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight) 
+![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=vangiaudev&count_private=true&show_icons=true&locale=en&layout=compact&theme=tokyonight) 
 
 
 <div align="center">
@@ -77,12 +77,12 @@
 ### ❤️  GET IN TOUCH  ⭐
 
 
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vangiau.recca)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/vangiau.recca)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vangiaurecca.github.io/PersonalBlog/index.html)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vangiau.dev)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/vangiau.dev)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vangiaudev.github.io/PersonalBlog/index.html)
 
 
-<a href="https://vangiaurecca.github.io/MyMusicPlayer/Media/index.html"><img height="50" src="https://svgsilh.com/svg/1837426.svg"></a>
+<a href="https://vangiaudev.github.io/MyMusicPlayer/Media/index.html"><img height="50" src="https://svgsilh.com/svg/1837426.svg"></a>
 
 </div>
 
