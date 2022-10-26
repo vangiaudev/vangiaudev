@@ -54,9 +54,8 @@
 
 <br >
 
-### :octocat: Github Data
-
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vangiaurecca&title=MultiLanguage,Stars,Commit&theme=discord&row=1&column=3&margin-w=20" alt="vangiaurecca" /></a> </p>
+### :octocat: Award
+![SVXS](https://user-images.githubusercontent.com/75024999/197905302-0ff7eed3-8df2-4d10-812c-a4301b7e1746.jpg)
 
 ## 🏆 Github Status
 
