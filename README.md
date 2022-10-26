@@ -9,7 +9,7 @@
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-HoChiMinhCity-3c9)
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img  src="https://user-images.githubusercontent.com/75024999/197905302-0ff7eed3-8df2-4d10-812c-a4301b7e1746.jpg" width="50%" >
 
 -  ☺ Full name: Nguyễn Văn Giàu
 - 📅 Date of birth:  April 6, 2001
