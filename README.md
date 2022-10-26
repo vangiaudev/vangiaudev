@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Mobile App / FrontEnd Web developer from VietNam  ❤</h3>
   
-![view counter](https://komarev.com/ghpvc/?username=vangiaurecca&label=Profile%20views&color=0e75b6&style=flat-square)
+![view counter](https://komarev.com/ghpvc/?username=vangiaudev&label=Profile%20views&color=0e75b6&style=flat-square)
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-HoChiMinhCity-3c9)
@@ -16,7 +16,7 @@
 - 🚹 Gender: Male
 - 🏠 Address: Chợ Gạo, Tiền Giang, Vietnam
 - 📞 Phone: (+84) 385642964
-- 📧 Email: vangiau.recca@gmail.com
+- 📧 Email: vangiau.dev@gmail.com
 - 🎓 Level: Fresher Developer
 - 👯 Career Objective:
     + Working in a friendly environment
@@ -37,15 +37,15 @@
 <img src="https://i.imgur.com/ZxsaMVA.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src="https://vangiaurecca.github.io/PersonalBlog/img/logo-photoshop.png?raw=true" height="60" width="60">
-<img src="https://vangiaurecca.github.io/PersonalBlog/img/logo-csharp.png" height="60" width="60">
+<img src="https://vangiaudev.github.io/PersonalBlog/img/logo-photoshop.png?raw=true" height="60" width="60">
+<img src="https://vangiaudev.github.io/PersonalBlog/img/logo-csharp.png" height="60" width="60">
 
 <br>
 
-<img src="https://vangiaurecca.github.io/PersonalBlog/img/logo-java.png?raw=true" height="60" width="60">
+<img src="https://vangiaudev.github.io/PersonalBlog/img/logo-java.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png?raw=true" height="60" width="60">
-<img src="https://vangiaurecca.github.io/PersonalBlog/img/logo-javascript.png?raw=true" height="60" width="60">
-<img src="https://vangiaurecca.github.io/PersonalBlog/img/logo-html.png?raw=true" height="60" width="60">
+<img src="https://vangiaudev.github.io/PersonalBlog/img/logo-javascript.png?raw=true" height="60" width="60">
+<img src="https://vangiaudev.github.io/PersonalBlog/img/logo-html.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
 <img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
@@ -59,7 +59,7 @@
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=vangiaurecca&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=vangiaudev&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vangiaudev&theme=tokyonight" width="45%" >
 <br>
 
