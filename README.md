@@ -3,7 +3,8 @@
 <h1 align="center"> Welcome to NGUYỄN VĂN GIÀU <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 <h3 align="center">A passionate .NET Developer from VietNam  ❤</h3>
-<h4 align="center">Front ❤ Back ❤ DevOps</h3>
+<h4 align="center">Front ❤ Back ❤ DevOps</h3> 
+
 ![view counter](https://komarev.com/ghpvc/?username=vangiaudev&label=Profile%20views&color=0e75b6&style=flat-square)
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
