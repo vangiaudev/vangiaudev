@@ -19,7 +19,7 @@
 - 🏠 Address: Chợ Gạo, Tiền Giang, Vietnam
 - 📞 Phone: (+84) 385642964
 - 📧 Email: vangiau.dev@gmail.com
-- 🎓 Level: Fresher Developer
+- 🎓 Level: Junior Developer
 - 👯 Career Objective:
     + Working in a friendly environment
     + Accumulate and learn from previous colleagues
