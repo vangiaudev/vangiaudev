@@ -25,7 +25,7 @@
     + Accumulate and learn from previous colleagues
     + Improve working skills and desire to become a full-time employee after the probationary period
 - 👨‍🎓 I am currently studying at Ho Chi Minh City University Of Pedagogy
-- 📫 My CV: https://vangiau.vercel.app/
+- 📫 My Portfolio: https://vangiau.id.vn/
 <br />
 
 
